@@ -1,4 +1,4 @@
 <Response>
  <Say voice="alice">Thanks for trying our documentation. Enjoy!</Say>
- <Play>https://github.com/DeveloperMos/voicemail/raw/main/file.mp3</Play>
+ <Play>https://raw.githubusercontent.com/DeveloperMos/voicemail/main/file.mp3</Play>
 </Response>
